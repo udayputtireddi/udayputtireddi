@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **React and Node.js based Project**
 
+- 👨‍💻 All of my projects are available at [https://udayputtireddi.netlify.app/](https://udayputtireddi.netlify.app/)
+
 - 📫 How to reach me **uday.puttireddi@gmail.com**
+
+- ⚡ Fun fact **Know me and find out 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
