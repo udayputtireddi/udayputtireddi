@@ -1,4 +1,5 @@
-https://www.canva.com/design/DAGJ8_8oIqY/om1KOTZFyieeoEAkHGuPfg/edit?utm_content=DAGJ8_8oIqY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![UDAY PUTTIREDDI](https://github.com/udayputtireddi/udayputtireddi/assets/101133572/4d6ac467-3254-4313-ab73-0123c5d6fef9)
+
 <h1 align="center">Hi 👋, I'm Uday Puttireddi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -17,5 +18,3 @@ https://www.canva.com/design/DAGJ8_8oIqY/om1KOTZFyieeoEAkHGuPfg/edit?utm_content
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayputtireddi&show_icons=true&locale=en&layout=compact" alt="udayputtireddi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayputtireddi&show_icons=true&locale=en" alt="udayputtireddi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayputtireddi&" alt="udayputtireddi" /></p>
