@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
-- 🔭 I’m currently working on **React and Node.js based Project**
+- 🔭 I’m currently working on - **React and Node.js based Project**
 
-- 👨‍💻 All of my projects are available at [https://udayputtireddi.netlify.app/](https://udayputtireddi.netlify.app/)
+- 👨‍💻 All of my projects are available at - [https://udayputtireddi.netlify.app/](https://udayputtireddi.netlify.app/)
 
-- 📫 How to reach me **uday.puttireddi@gmail.com**
+- 📫 How to reach me - **uday.puttireddi@gmail.com**
 
-- ⚡ Fun fact **Know me and find out 😁**
+- ⚡ Fun fact - **Know me and find out 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
