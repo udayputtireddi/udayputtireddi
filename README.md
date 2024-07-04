@@ -1,6 +1,6 @@
 ![UDAY PUTTIREDDI](https://github.com/udayputtireddi/udayputtireddi/assets/101133572/4d6ac467-3254-4313-ab73-0123c5d6fef9)
 
-<h1 align="center">Hi 👋, I'm Uday Puttireddi</h1>
+<h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **React and Node.js based Project**
