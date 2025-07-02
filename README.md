@@ -1,9 +1,9 @@
 ![UDAY PUTTIREDDI](https://github.com/udayputtireddi/udayputtireddi/assets/101133572/4d6ac467-3254-4313-ab73-0123c5d6fef9)
 
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
-<h3 align="center">A Passionate Software Developer From India</h3>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on - **React and Node.js based Project**
+- 🔭 I’m currently working on - **Agentic AI Project**
 
 - 👨‍💻 All of my projects are available at - [https://udayputtireddi.netlify.app/](https://udayputtireddi.netlify.app/)
 
