@@ -1,4 +1,5 @@
-![UDAY PUTTIREDDI](https://github.com/udayputtireddi/udayputtireddi/assets/101133572/4d6ac467-3254-4313-ab73-0123c5d6fef9)
+![ChatGPT Image Jul 9, 2025, 10_29_02 PM](https://github.com/user-attachments/assets/e0fd1e45-04d2-43e2-b1c1-0cd7b9ebf959)
+
 
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
