@@ -1,4 +1,4 @@
-![ChatGPT Image Jul 9, 2025, 10_29_02 PM](https://github.com/user-attachments/assets/e0fd1e45-04d2-43e2-b1c1-0cd7b9ebf959)
+<img width="1584" height="396" alt="Blue Black and White Modern Corporate Professional LinkedIn Banner " src="https://github.com/user-attachments/assets/c9cdf426-dd69-4c69-b820-81c00aabfda6" />
 
 
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
