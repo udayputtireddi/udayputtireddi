@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Blue Black and White Modern Corporate Professional LinkedIn Banner " src="https://github.com/user-attachments/assets/c9cdf426-dd69-4c69-b820-81c00aabfda6" />
+<img width="1584" height="396" alt="Blue Black and White Modern Corporate Professional LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/5b91aa17-f0a8-4c2a-b315-e9cf87857743" />
+
 
 
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
