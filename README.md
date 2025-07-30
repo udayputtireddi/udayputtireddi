@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on - **Prompt Engineering Project**
 
-- 👨‍💻 All of my projects are available at - [https://udayputtireddi.netlify.app/](https://udayputtireddi.netlify.app/)
+- 👨‍💻 All of my projects are available at - [Portfolio](https://udayputtireddi.framer.website/)
 
 - 📫 How to reach me - **uday.puttireddi@gmail.com**
 
