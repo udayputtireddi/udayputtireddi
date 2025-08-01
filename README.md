@@ -2,16 +2,6 @@
 
 
 
-<h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
-<h3 align="center">A Passionate Software Engineer From India</h3>
-
-- 🔭 I’m currently working on - **Prompt Engineering Project**
-
-- 👨‍💻 All of my projects are available at - [Portfolio](https://udayputtireddi.framer.website/)
-
-- 📫 How to reach me - **uday.puttireddi@gmail.com**
-
-- ⚡ Fun fact - **Know me and find out 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
