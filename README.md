@@ -1,6 +1,15 @@
 <img width="1584" height="396" alt="Blue Black and White Modern Corporate Professional LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/5b91aa17-f0a8-4c2a-b315-e9cf87857743" />
 
+<h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
+<h3 align="center">A Passionate Software Engineer From India</h3>
 
+- 🔭 I’m currently working on - **Prompt Engineering Project**
+
+- 👨‍💻 All of my projects are available at - [Portfolio](https://udayputtireddi.framer.website/)
+
+- 📫 How to reach me - **uday.puttireddi@gmail.com**
+
+- ⚡ Fun fact - **Know me and find out 😁**
 
 
 <h3 align="left">Connect with me:</h3>
