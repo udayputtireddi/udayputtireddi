@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - **uday.puttireddi@gmail.com**
 
-- ⚡ Fun fact - ** 😁**
+- ⚡ Fun fact - ** Know me and find out😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
