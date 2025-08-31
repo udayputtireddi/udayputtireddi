@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 
-- 🔭 I’m currently working on - **Agentic AI Project**
+- 🔭 I’m currently working on - **AI Project**
 
 - 👨‍💻 All of my projects are available at - [Portfolio](https://udayputtireddi.framer.website/)
 
