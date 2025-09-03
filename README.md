@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on - **Agentic AI Project**
 
-- 👨‍💻 All of my projects are available at - [[Portfolio]](https://udayputtireddi.framer.website/)
+- 👨‍💻 All of my projects are available at - [Portfolio](https://udayputtireddi.framer.website/)
 
 - 📫 How to reach me - **uday.puttireddi@gmail.com**
 
