@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Blue Black and White Modern Corporate Professional LinkedIn Banner  (1)" src="https://github.com/user-attachments/assets/5b91aa17-f0a8-4c2a-b315-e9cf87857743" />
+<img width="1584" height="396" alt="linkedin-banner (1)" src="https://github.com/user-attachments/assets/90e83050-91b2-48a8-97d4-9ce5e6aa9d5c" />
 
 <h1 align="center">Hi 👋🏼, I'm Uday Puttireddi</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
